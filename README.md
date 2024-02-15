@@ -69,3 +69,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # chatbot_demo
+
+#runserver
+npm start
+
+#久しぶりに開いてエラー出たら
+import {TextInput} from "./index";
+// import TextInput from "./TextInput";
+このTextInputが上手くimportできていないのでindex.jsなどコメントアウトしているところをいじると治るかも、、、
+
